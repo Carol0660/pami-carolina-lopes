@@ -1,0 +1,12 @@
+{
+  "name": "pami-carolina-lopes",
+  "version": "1.0.0",
+  "description": "Programação de Aplicativo Mobile I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
