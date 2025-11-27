@@ -26,3 +26,12 @@ Após isso, o PowerShell pedirá que você nomeie seu projeto, então aparecerá
 	√ What is your app named?
 
 Então, insira o nome do seu projeto.
+
+## Como inicar um projeto já criado
+
+1. Abra o terminal
+2. Navegue até seu projeto
+
+Após isso, rode novamente:
+
+    expo start
